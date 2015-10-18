@@ -1,9 +1,5 @@
----
-title: "R Markdown Peer Assessment 1 Assignment"
-author: "Manasi Seshadri"
-date: "18 October 2015"
-output: html_document
----
+R Markdown Peer Assessment 1 Assignment
+========================================
 
 #Introduction
 The aim of this assignment is to answer specific questions regarding personal movement by analyzing data about an anaonymous individual's personal movement. The data has been collected using an activity montioring device. This device collects data at 5 minute intervals through out the day. The data consists of two months of data from an anonymous individual collected during the months of October and November, 2012 and include the number of steps taken in 5 minute intervals each day.
@@ -150,7 +146,7 @@ print (xt, type="html")
 ```
 
 <!-- html table generated in R 3.2.1 by xtable 1.7-4 package -->
-<!-- Sun Oct 18 22:32:49 2015 -->
+<!-- Sun Oct 18 22:39:33 2015 -->
 <table border=1>
 <tr> <th>  </th> <th> Dataset </th> <th> Mean </th> <th> Median </th>  </tr>
   <tr> <td align="right"> 1 </td> <td> Original </td> <td align="right"> 10766.19 </td> <td align="right"> 10765.00 </td> </tr>
